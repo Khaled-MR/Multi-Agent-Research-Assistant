@@ -1,4 +1,3 @@
-```markdown
 # 🔬 Multi-Agent Research Insight Generator
 
 This project leverages a **Multi-Agent System** using `LangGraph`, `LangChain`, and `Groq` to analyze research queries and generate actionable insights, trends, anomalies, and innovations — all delivered through a clean `FastAPI` backend and optional `Streamlit` interface.
