@@ -1,0 +1,11 @@
+langgraph
+langchain
+langchain-groq
+python-dotenv
+requests
+fastapi
+uvicorn
+scikit-learn
+numpy
+sqlalchemy
+streamlit
